@@ -6,7 +6,8 @@ A repo just for learning how to use Mitsuba
 ## The Idea
 This is just me using Mitsuba in order to get familiarized with it.
 
-![My First Render](my_first_render.png?raw=true "My First Render")
+![My First Render](my_first_render.png?raw=true "My First Render")  
+![Rendering from custom sensor](living_room_scene.png?raw=true "My First Render")
 
 ## Requirements
 You'll need a [Python interpreter](https://www.python.org/downloads/) to run the Mitsuba Test.
